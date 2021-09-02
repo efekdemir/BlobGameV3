@@ -1,9 +1,14 @@
-# My Personal Project
+# My First Personal Project
 
 ## Efe Demir
 
+#### Most recent change (SEP 2021): ####
+- Fixed all problematic bugs related to the save and load component of the GUI game.
+- Uploaded project to personal GitHub
 
-I aiming to make my project a game similar to a simple and single-player version of **agar.io**. The purpose of the 
+#### Initial project submission description: ####
+
+I am aiming to make my project a game similar to a simple and single-player version of **agar.io**. The purpose of the 
 application is simply for entertainment. Anybody can play the game, but the game will be made for my own personal 
 leisure. I was inspired by the game "Spore" on the old *Nokia* phone, which I remember playing as a kid. 
 This is why the project interests me.
@@ -68,15 +73,11 @@ Task 3.
 
 
 
-###### // Ambitious things I would like to do, or things that I am too lazy to do (disregard):
+###### // Things I would like to do next:
 
 ###### // -  As a user, I want to be able to display the text "Round 2" when Blob first evolves
-
-###### // -  As a user, I want to be able to add a new Food Piece to the BlobGame when an active one gets eaten by Blob
-
 ###### // - Create moving objects that move in a random direction that eat smaller objects (including MC) 
 ###### // - Moving objects bigger than MC are red, and smaller ones are green. 
-###### // - Objects can only go over other objects if their body size is bigger
 ###### // - If body sizes of objects that collide are equal, they cannot go over each other and just collide
 ###### // - After blobGUI evolves, moving creatures are introduced to the game
 ###### // - Creatures move from one end of the screen to the other in a straight line
