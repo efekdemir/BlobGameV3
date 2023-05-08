@@ -1,3 +1,11 @@
+# Summary:
+- Technologies Used: IntelliJ, Swing, Java, JUnit
+◦ Developed a 2D single player game, playable through the command line or GUI, inspired by agar.io, revolving around a Blob
+that moves and eats food pieces to grow; helped improve my OOP skills
+◦ Implemented in-game audio effects using Java Sound Technology to augment user experience
+◦ Delivered bug-free system through the promotion of proper quality assurance and JUnit testing
+
+
 # My First Personal Project
 
 ## Efe Demir
